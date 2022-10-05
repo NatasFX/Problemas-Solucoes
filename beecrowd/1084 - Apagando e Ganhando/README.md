@@ -32,6 +32,7 @@ Para cada caso de teste da entrada seu programa deve imprimir uma única linha n
 
   É meio complicado e entender, mas a idéia é a mesma que o algoritmo inicialmente explicado, porém adaptado para apenas uma varredura no array com uma pilha e ir removendo da pilha conforme ele atinge o N+1 de distancia.
 
+- [Luiz H. Lago](https://github.com/crazynds)
 
 
 </details>
