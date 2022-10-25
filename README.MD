@@ -8,6 +8,7 @@ Esse repositório contém diversos problemas e suas soluções, com a explicaç�
 
 - [Luiz H. Lago](https://github.com/crazynds)
 - [Natã Schmitt](https://github.com/NatasFX)
+- [Fernando Pozze](https://github.com/fernandoPozzer)
 
 
 
