@@ -30,3 +30,13 @@ A saída consistirá em linhas separadas relativos à posição da pessoa que a 
 - [Luiz H. Lago](https://github.com/crazynds)
 
 </details>
+
+<details>
+  <summary>Solução 2:</summary>
+
+  Nessa solução a ideia é utilizar uma Double Ended Queue para simular os pulos variantes. a fila é rotacionada para a esquerda, colocando o item no primeiro lugar em último, o segundo em primeiro e assim por diante. Após k rotações o primeiro item da fila é o que deve morrer, sendo removido. Como temos uma remoção por round e N rounds, precisamos iterar n-1 vezes até que sobre somente um no primeiro lugar da fila.
+
+
+- [Natã Schmitt](https://github.com/natasfx)
+
+</details>
